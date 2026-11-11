@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://nef1.org/"><img src="https://avatars.githubusercontent.com/u/355417406?v=4" alt="National Energy Foundation" width="120"></a>
+<a href="https://nef1.org/"><img src="https://pas.nef1.org/images/nef-color.svg" alt="National Energy Foundation" width="240"></a>
 
 # National Energy Foundation
 
